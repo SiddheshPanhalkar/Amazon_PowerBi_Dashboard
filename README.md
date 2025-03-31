@@ -2,7 +2,7 @@
 
 This Power BI project presents an interactive **Amazon Sales Dashboard** built to analyze and visualize product performance, delivery status, and sales distribution across different cities and states in India.
 
-> 📌 **Co-authors**: Siddhesh Panhalkar & Shubham Subhash Ghule
+> 📌 **Co-authors**: Siddhesh Panhalkar & Shubham Ghule
 
 ---
 
